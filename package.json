@@ -1,7 +1,7 @@
 {
-  "name": "react-skeleton",
+  "name": "aubrey-oblad-react-portfolio",
   "version": "1.0.0",
-  "description": "React App Skeleton",
+  "description": "Practice react portfolio",
   "scripts": {
     "start": "webpack-dev-server --config webpack/dev.config.js --watch",
     "build": "cross-env NODE_ENV=production webpack --config webpack/prod.config.js --progress --display-error-details --color",
@@ -14,7 +14,7 @@
   "keywords": [
     ""
   ],
-  "author": "TechenPro",
+  "author": "Aubrey Oblad",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.19.0",
